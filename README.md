@@ -1,11 +1,21 @@
+# 🎓 Plataforma de Eventos - Instituto Federal
 
-  # Event Management Platform
+Esta plataforma tem como objetivo facilitar o **cadastro, organização e divulgação de eventos institucionais** do Instituto Federal. Ela permite que servidores cadastrem eventos e que alunos e professores visualizem informações de forma clara e acessível.
 
-  This is a code bundle for Event Management Platform. The original project is available at https://www.figma.com/design/ynwxn8EazAnc6U03NjlBQN/Event-Management-Platform.
+## 🧩 O que é possível fazer
 
-  ## Running the code
+- Cadastrar eventos com data, local, público-alvo e descrição
+- Cadastrar alunos e professores
+- Visualizar eventos em uma interface pública e responsiva
+- Enviar e-mails com informações de eventos para os alunos
 
-  Run `npm i` to install the dependencies.
+## 🚀 Como utilizar
 
-  Run `npm run dev` to start the development server.
-  
+### 1. Instale as dependências:
+```bash
+npm install
+```
+
+### 1. Inicie o projeto:
+```bash
+npm run dev
